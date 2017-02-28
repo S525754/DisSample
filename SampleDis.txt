@@ -1,5 +1,9 @@
 wsdi
 aefiod\
 sdfiij
+<<<<<<< .mine
 hd
-aehfu
+=======
+hd
+>>>>>>> .theirs
+aehfuI have updated it again
