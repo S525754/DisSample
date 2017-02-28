@@ -1,6 +1,15 @@
 wsdi
 aefiod\
 sdfiij
+<<<<<<< .mine
 hd
-I have updated it again
+=======
 I am testing merge conflict
+hd
+<<<<<<< .mine
+
+=======
+>>>>>>> .theirs
+>>>>>>> .theirs
+aehfuI have updated it again
+aeushdfi
